@@ -3,6 +3,8 @@
 > A Vue.js project
 
 1.  https://materializecss.com/
+2.  https://code.jquery.com/
+3.  https://firebase.google.cn/docs/reference/js/
 
 ## Build Setup
 
